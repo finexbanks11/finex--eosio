@@ -1,7 +1,7 @@
 Finex EOSIO
 Finex EOSIO is a decentralized finance (DeFi) platform built on the EOSIO blockchain. It aims to provide a robust and efficient ecosystem for various financial services, including lending, borrowing, and trading, while leveraging the scalability and flexibility offered by EOSIO technology.
 
-Key Features:
+
 Lending and Borrowing: Users can lend out their digital assets and earn interest or borrow assets by collateralizing their holdings.
 
 DEX Integration: Seamless integration with decentralized exchanges (DEX) allows users to trade digital assets directly from their wallets.
